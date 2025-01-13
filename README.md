@@ -1,4 +1,4 @@
-# safety-check-in-app
+# My First Practical app
 Safety check in app
 import android.app.Activity
 import android.app.AlarmManager
